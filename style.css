@@ -1,0 +1,29 @@
+body footer{
+    
+font-family: Roboto-solid, sans-serif;
+
+}
+
+.bg{
+    background-color: #28A745; !important¡
+}
+footer{ background-color: #28A745;
+    color: #fff;
+
+}
+
+ 
+
+.fa-solid{
+    color:#707070A0;
+    font-family: Roboto, sans-serif;
+}
+
+.centrar-texto{
+    display: flex;
+    justify-content: center;
+}
+
+.texto-gris{
+    color: #707070;
+}
